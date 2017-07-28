@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(void){
-  retnrn 0;
+  return 0;
 }
